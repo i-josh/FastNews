@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fast News</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="main_page_image">main_page_image</string>
+    <string name="author">author</string>
+    <string name="news_detail_image">news detail image</string>
+    <string name="read_full_article"><u>Read full article</u></string>
+</resources>
